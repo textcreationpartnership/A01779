@@ -35,18 +35,28 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Wit in a constable A comedy written 1639. The author Henry Glapthorne. And now printed as it was lat
+
+1. To the Right Honourable his singular good Lord THOMAS LORD WENTWORTH.
+
+1. The PROLOGUE.
+
+1. EPILOGUE.
+
+1. The Persons in the Play.
+
 #####Body#####
 
-1. Actus primus, Scena prima.
+1. VVit in a Constable.
 
-1. Actus secundus. Scena prima.
+    _ Actus primus, Scena prima.
 
-1. Actus Tertius, Scena prima.
+    _ Actus secundus. Scena prima.
 
-1. Actus Quartus, Scena prima.
+    _ Actus Tertius, Scena prima.
 
-1. Actus Quintus, Scena prima.
+    _ Actus Quartus, Scena prima.
+
+    _ Actus Quintus, Scena prima.
 
 **Types of content**
 
